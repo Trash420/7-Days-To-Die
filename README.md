@@ -33,3 +33,6 @@ Modlets for 7dtd v1.0 and more.
   - SyphMod_More_LootableHumanCorpse :
         Allows to loot the decaying human cadavers with loot list from bathtub filled.
 
+  - SyphMod_MoreVanilla_TradersSetting :
+        Allows the setting of traders to be changed. Values unchanged.
+
