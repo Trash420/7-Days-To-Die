@@ -37,7 +37,7 @@ Modlets for 7dtd v1.0 and more.
         Allows the setting of traders to be changed. Values unchanged.
 
   - SyphMod_More_CrudeCampfire :
-        Allows the craft and upgrading of emberpile (for 1 wood) to crude campfire and upgrading to campfire (for 3 stones). Crude campfire to cook basic food without knowledge but with lower gains than food cooked at the campfire. Need a wooden stick as a tool for cooking.
+        Allows the craft and upgrading of emberpile (for 1 wood) to crude campfire and upgrading to campfire (for 3 stones). Crude campfire to cook basic food without knowledge but with lower gains than food cooked at the campfire. Need a small wooden stick as a tool for cooking.
 
 
 
