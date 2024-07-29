@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="SyphMod_GUITweaks_CraftingQueue" />
+    <DisplayName value="SyphMod 5th CraftingQueue" />
+    <Description value="Adds 1 slot to crafting queue." />
+    <Author value="Syph420" />
+    <Version value="1.0.0.1" />
+    <Website value=" " />
+</xml>
