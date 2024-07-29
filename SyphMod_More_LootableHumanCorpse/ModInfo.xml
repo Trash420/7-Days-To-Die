@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="SyphMod_More_LootableHumanCorpse" />
+    <DisplayName value="SyphMod Lootable Human Corpse" />
+    <Description value="Adds Human Corpse as lootable container." />
+    <Author value="Syph420" />
+    <Version value="1.0.0.1" />
+    <Website value=" " />
+</xml>

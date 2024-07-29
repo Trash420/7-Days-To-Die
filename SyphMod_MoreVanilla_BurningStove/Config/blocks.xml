@@ -1,0 +1,41 @@
+<configs>
+
+	<append xpath="/blocks/block[@name='cntCollapsedCampfire']">
+		<property class="UpgradeBlock">
+			<property name="ToBlock" value="campfire"/>
+			<property name="Item" value="resourceRockSmall"/>
+			<property name="ItemCount" value="3"/>
+			<property name="UpgradeHitCount" value="1"/>
+		</property>
+		<property name="CustomUpgradeSound" value="place_block_concrete"/>
+	</append>
+
+
+	<append xpath="/blocks/block[@name='cntWoodBurningStove']">
+		<!-- Class -->
+		<property name="Class" value="Campfire"/>
+		<property class="Workstation">
+			<property name="Modules" value="tools,output,fuel,input"/>
+			<property name="Collide" value="melee,bullet,arrow,rocket"/>
+			<property name="CraftingAreaRecipes" value="campfire"/>
+		</property>
+		<property name="WorkstationWindow" value="workstation_campfire" />
+		<!-- UI_Info -->
+		<property name="WorkstationIcon" value="ui_game_symbol_campfire"/>
+		<property name="CraftActionName" value="lblContextActionCook"/>
+		<property name="CraftIcon" value="ui_game_symbol_spatula"/>
+		<!-- Visual -->
+		<property name="ParticleName" value="campfire"/>
+		<property name="ParticleOffset" value="0.5,0.5,0.5"/>
+		<!-- Interaction -->
+		<property name="HeatMapStrength" value="5"/>
+		<property name="HeatMapTime" value="5000"/>
+		<property name="HeatMapFrequency" value="1000"/>
+		<property name="ActiveRadiusEffects" value="buffCampfireAOE(3)"/>
+		<property name="OpenSound" value="campfire_open"/>
+		<property name="CloseSound" value="campfire_close"/>
+		<property name="CraftSound" value="campfire_cook_click"/>
+		<property name="CraftCompleteSound" value="campfire_complete_item"/>
+	</append>
+	
+</configs>
