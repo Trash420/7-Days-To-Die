@@ -39,6 +39,9 @@ Modlets for 7dtd v1.0 and more.
   - SyphMod_MoreVanilla_ElectricalBook :
         Adds electrical book. You can learn : ceiling Light, spotlight, switch, electric wire relay, trip wire post, generator bank, speaker.
 
+  - SyphMod_MoreVanilla_Generator :
+        Max fuel generator 10000.
+
   - SyphMod_MoreVanilla_PickUpBed :
         All beds can be pickup and used as respawn point.
 
