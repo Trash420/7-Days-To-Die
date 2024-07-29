@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="SyphMod_NoMore_SleeperRedDot" />
+    <DisplayName value="SyphMod No Sleeper Red Dot In Quest" />
+    <Description value="Remove red dot on kills zombies quest." />
+    <Author value="Syph420" />
+    <Version value="1.0.0.1" />
+    <Website value=" " />
+</xml>

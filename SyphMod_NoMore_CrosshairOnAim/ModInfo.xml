@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="SyphMod_NoMore_CrosshairOnAim" />
+    <DisplayName value="SyphMod No Crosshair On Aim" />
+    <Description value="Remove crosshair on aim for some weapons." />
+    <Author value="Syph420" />
+    <Version value="1.0.0.1" />
+    <Website value=" " />
+</xml>

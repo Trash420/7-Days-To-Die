@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+    <Name value="SyphMod_NoMore_Mine" />
+    <DisplayName value="SyphMod No Mine" />
+    <Description value="Remove mines in Wasteland and pick up mines." />
+    <Author value="Syph420" />
+    <Version value="1.0.0.1" />
+    <Website value=" " />
+</xml>

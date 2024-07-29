@@ -1,0 +1,19 @@
+<configs>
+
+	<append xpath="/lootcontainers/lootgroup[@name='groupElectricalDevices']">
+		<item name="electricalBook_TRW" count="1" loot_prob_template="low"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootgroup[@name='groupMoPower01']">
+		<item name="electricalBook_TRW" count="1" loot_prob_template="low"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootgroup[@name='groupMoPower02']">
+		<item name="electricalBook_TRW" count="1" loot_prob_template="low"/>
+	</append>
+	
+	<append xpath="/lootcontainers/lootgroup[@name='groupMoPower04']">
+		<item name="electricalBook_TRW" count="1" loot_prob_template="low"/>
+	</append>
+	
+</configs>

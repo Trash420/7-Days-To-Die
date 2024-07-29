@@ -1,0 +1,19 @@
+<configs>
+	
+	<remove
+		xpath="/nav_object_classes/nav_object_class[@name='zombie']/map_settings/property[@name='sprite_name']">
+	</remove>
+	
+	<remove
+		xpath="/nav_object_classes/nav_object_class[@name='zombie']/compass_settings/property[@name='sprite_name']">
+	</remove>
+	
+	<remove
+		xpath="/nav_object_classes/nav_object_class[@name='clear_sleeper']/map_settings/property[@name='sprite_name']">
+	</remove>
+	
+	<remove
+		xpath="/nav_object_classes/nav_object_class[@name='clear_sleeper']/compass_settings/property[@name='sprite_name']">
+	</remove>
+
+</configs>
