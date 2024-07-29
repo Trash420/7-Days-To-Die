@@ -1,7 +1,0 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,latam,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese,spanish
-
-goreBlockHumanCorpse,blocks,Block,,,Decaying Human Corpse,,,,Cadavre humain en decomposition,,,,,,,,,,,
-goreBlockHumanCorpse1,blocks,Block,,,Decaying Human Corpse,,,,Cadavre humain en decomposition,,,,,,,,,,,
-goreBlockHumanCorpse2,blocks,Block,,,Decaying Human Corpse,,,,Cadavre humain en decomposition,,,,,,,,,,,
-goreBlockHumanCorpse2Offset,blocks,Block,,,Decaying Human Corpse,,,,Cadavre humain en decomposition,,,,,,,,,,,
-goreBlockHumanCorpse3,blocks,Block,,,Decaying Human Corpse,,,,Cadavre humain en decomposition,,,,,,,,,,,
