@@ -14,8 +14,8 @@
 			<property name="CustomIcon" value="woodenStick"/>
 			<property name="CreativeMode" value="Player"/>
 			<property name="DescriptionKey" value="woodenStickDesc"/>
-			<property name="Meshfile" value="#Other/Items?Misc/sackPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="MresourceWood"/>
 			<property name="Weight" value="5"/>
 			<property name="Stacknumber" value="6000"/> <!-- STK resource -->
@@ -35,8 +35,8 @@
 			<property name="DescriptionKey" value="foodCornStickDesc"/>
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/> <!-- STK food -->
 			<property name="EconomicValue" value="30"/>
@@ -78,8 +78,8 @@
 			<!--<property name="UnlockedBy" value="perkMasterChef,cookBook_TRW"/>-->
 			<property name="HoldType" value="31"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/> <!-- STK food -->
 			<property name="EconomicValue" value="24"/>
@@ -107,8 +107,8 @@
 			<property name="CreativeMode" value="Player"/>
 			<property name="DescriptionKey" value="foodPotatoStickDesc"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/> <!-- STK food -->
 			<property name="EconomicValue" value="16"/>
@@ -137,8 +137,8 @@
 			<property name="CreativeMode" value="Player"/>
 			<property name="DescriptionKey" value="foodMushroomStickDesc"/>
 			<property name="DisplayType" value="food"/>
-			<property name="Meshfile" value="#Other/Items?Misc/parcelPrefab.prefab"/>
-			<property name="DropMeshfile" value="#Other/Items?Misc/sack_droppedPrefab.prefab"/>
+			<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+			<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 			<property name="Material" value="Morganic"/>
 			<property name="Stacknumber" value="10"/> <!-- STK food -->
 			<property name="EconomicValue" value="16"/>
